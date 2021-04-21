@@ -1,0 +1,7 @@
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365z\KursovaMT46365z\bin\Debug\KursovaMT46365z.exe.config
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365z\KursovaMT46365z\bin\Debug\KursovaMT46365z.exe
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365z\KursovaMT46365z\bin\Debug\KursovaMT46365z.pdb
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365z\KursovaMT46365z\obj\Debug\KursovaMT46365z.csproj.CoreCompileInputs.cache
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365z\KursovaMT46365z\obj\Debug\KursovaMT46365z.exe
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365z\KursovaMT46365z\obj\Debug\KursovaMT46365z.pdb
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365z\KursovaMT46365z\obj\Debug\KursovaMT46365z.csprojAssemblyReference.cache
